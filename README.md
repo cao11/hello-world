@@ -1,2 +1,3 @@
 # hello-world
-Storage Resources
+Hi!
+I am learning js.
